@@ -19,3 +19,7 @@ __pycache__/
 # Secrets
 .env
 .env.*
+
+# Private project documentation
+Final_Report.pdf
+Important notes before executing code.txt
